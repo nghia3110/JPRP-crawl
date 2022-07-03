@@ -1,0 +1,1 @@
+# Crawl data from https://jprp.vn/index.php/JPRP/issue/archive, using [node-fetch](https://www.npmjs.com/package/node-fetch), [cheerio](https://www.npmjs.com/package/cheerio), export data to excel file by [xlsx](https://www.npmjs.com/package/xlsx).
